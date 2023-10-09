@@ -1,4 +1,4 @@
-## Assignment 6 - Public Key Cryptography
+## Public Key Cryptography
 
 In this lab we learnt about cryptography, the RSA algorithm, and ways which we can deliver messages to the recipient secretly. Learning these algorithms required me to deeply understand some math functions: gcd, pow_mod, mod_inverse, is_prime, and make_prime.
 
